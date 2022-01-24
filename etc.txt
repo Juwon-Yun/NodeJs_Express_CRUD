@@ -1,0 +1,7 @@
+npm i express --save
+npm i ejs --save       
+npm i mysql --save
+npm i mybatis-mapper --save  
+
+node server.js
+
